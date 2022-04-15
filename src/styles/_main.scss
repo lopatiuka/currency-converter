@@ -1,0 +1,20 @@
+main {
+    padding-top: 50px;
+
+    h2 {
+        text-align: center;
+        color: var(--main-text-color);
+    }
+
+    .row {
+        justify-content: center;
+    }
+
+    .amount {
+        width: auto;
+
+        input {
+            margin-bottom: 10px;
+        }
+    }
+}
